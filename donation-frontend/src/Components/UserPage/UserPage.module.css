@@ -1,0 +1,185 @@
+/* CSS Reset  */
+
+body {
+  margin: 0px;
+  padding: 0px;
+  user-select: none;
+}
+
+.main {
+  background-color: #222D32;
+  text-align: center;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.pHeading {
+  font-family: "DM Serif Text", serif;
+  font-size: 3rem;
+  margin: 10px;
+  color: white;
+  background: linear-gradient(#27EF9F, #0DB8DE);
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.Box{
+  background-color:#101518;
+  width: 75%;
+  height: auto;
+  border: none;
+  border-radius: 3px;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+  margin: 10px;
+  padding: 10px;
+}
+
+.container01 {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  flex-direction: row;
+}
+
+.dataUpdatesContainer {
+  display: flex;
+  justify-content: center;
+  text-align: left;
+  margin: 10px 40px;
+  flex-direction: column;
+}
+
+.DUC {
+  margin: 0px;
+  font-size: 1.5rem;
+  font-family: "Anton", sans-serif;
+  font-weight: 400;
+}
+
+.circularProgress {
+  width: 160px;
+  height: 160px;
+  border-radius: 50%;
+  background: conic-gradient(
+    #00b7ff calc(var(--progress) * 1%),
+    #ddd calc(var(--progress) * 1%)
+  );
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 16px;
+  font-weight: bold;
+  margin: 10px;
+}
+
+.circularProgress span {
+  position: absolute;
+  color:#101518;
+}
+
+.button{
+  width: 150px;
+  height: 70px;
+  padding: 20px;
+  margin: 30px;
+  border: 1px solid #0DB8DE;
+  color: #0DB8DE;
+  font-family: "Roboto", sans-serif;
+  font-weight: bold;
+  font-size: 1.1rem;
+  letter-spacing: 1px;
+  background-color: #101518;
+  cursor: pointer;
+  transition: background-color 0.2s ease-in-out;
+}
+
+.button:hover{
+  background-color: #0DB8DE;
+  color: aliceblue;
+}
+
+.styledInput {
+  width: 180px;
+  height: auto;
+  margin: 10px;
+  padding: 10px;
+  border: none;
+  border-radius: 10px;
+}
+
+.setCenter {
+  display: block;
+  text-align: center;
+  font-family: "New Amsterdam", sans-serif;
+  font-weight: 400;
+  font-size: 2rem;
+  color:  #3dfff4;;
+}
+
+.container02 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+#preRequisiteMsg{
+  color: white;
+}
+
+#successMsg {
+  color: rgb(0, 190, 0);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#failedMsg {
+  color: red;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.receipt {
+  text-align: center;
+  font-family: "Nunito", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  color: rgb(0 0 0);
+  background-color: hsl(0, 0%, 100%);
+  border: 2px solid black;
+  border-radius: 10px;
+  margin: 30px 70px;
+  padding: 20px;
+  font-size: 1.3rem;
+}
+
+.spinner {
+  border: 4px solid rgba(0, 0, 0, 0.1);
+  border-radius: 50%;
+  border-top-color: #09f;
+  width: 36px;
+  height: 36px;
+  animation: spin 1s ease-in-out infinite;
+  margin: 10px auto;
+}
+
+@keyframes spin {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+.backButton {
+  display: inline;
+  margin: 10px;
+  padding: 10px;
+  width: 100px;
+  height: auto;
+  border-radius: 10px;
+  background-color: white;
+  cursor: pointer;
+}
