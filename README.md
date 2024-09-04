@@ -1,8 +1,8 @@
-Donation DAPP for Tripura Flood Relief
+# Donation DAPP for Tripura Flood Relief
 
 This decentralized application (DApp) is designed to support flood relief efforts in Tripura. Built on the Ethereum blockchain, it allows users to make donations securely and transparently. The application features real-time updates on total funds raised, number of donors, and individual contributions. It includes a user-friendly interface with functionalities for donating and withdrawing funds, and displays a circular progress spinner to visualize the fundraising goal.
 
-Key Features:
+**Key Features:**
 
 1. Real-Time Tracking: Monitor the total amount raised and the number of donors with real-time updates.
 
@@ -20,4 +20,7 @@ Key Features:
 
 8. Sepolia Testnet Deployment: Deployed on the Sepolia testnet to provide a realistic environment for development and testing.
 
-This project aims to provide vital support for rebuilding efforts by facilitating seamless contributions to those in need.
+This project aims to provide vital support for rebuilding efforts by facilitating seamless contributions to those in need. 
+
+**Please note that this DApp operates on the Sepolia testnet and requires Sepolia ETH to function.**
+ 
