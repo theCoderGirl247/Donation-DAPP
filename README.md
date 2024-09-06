@@ -1,6 +1,7 @@
 # Donation DAPP for Tripura Flood Relief
 
-This application is hosted at the following URL: https://codergirl247donationdapp.netlify.app . Please visit the site to explore its features.
+This application is hosted at the following URL: https://codergirl247donationdapp.netlify.app . 
+Please visit the site to explore its features.
 
 ## Description: 
 
@@ -28,5 +29,5 @@ This decentralized application (DApp) is designed to support flood relief effort
 
 This project aims to provide vital support for rebuilding efforts by facilitating seamless contributions to those in need. For more information, please visit our Wiki Page.
 
-## **Please note that this DApp operates on the Sepolia testnet and requires Sepolia ETH to function.**
+## **Please note that this Donation DApp (Decentralised Application) operates on the Sepolia testnet and requires Sepolia ETH to function.**
  
