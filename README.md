@@ -29,5 +29,5 @@ This decentralized application (DApp) is designed to support flood relief effort
 
 This project aims to provide vital support for rebuilding efforts by facilitating seamless contributions to those in need. For more information, please visit our Wiki Page.
 
-## **Please note that this Donation DApp (Decentralised Application) operates on the Sepolia testnet and requires Sepolia ETH to function.**
+## **Please note that this Donation DApp operates on the Sepolia testnet and requires Sepolia ETH to function.**
  
