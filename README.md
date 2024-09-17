@@ -5,7 +5,7 @@ Please visit the site to explore its features.
 
 ## Description: 
 
-This decentralized application (DApp) is designed to support flood relief efforts in Tripura. Built on the Ethereum blockchain, it allows users to make donations securely and transparently. The application features real-time updates on total funds raised, number of donors, and individual contributions. It includes a user-friendly interface with functionalities for donating and withdrawing funds, and displays a circular progress spinner to visualize the fundraising goal.
+This decentralized application (Dapp) is designed to support flood relief efforts in Tripura. Built on the Ethereum blockchain, it allows users to make donations securely and transparently. The application features real-time updates on total funds raised, number of donors, and individual contributions. It includes a user-friendly interface with functionalities for donating and withdrawing funds, and displays a circular progress spinner to visualize the fundraising goal.
 
 ![donDapp001](https://github.com/user-attachments/assets/846dc599-fe0f-4fd8-bd67-778f7a824cc8)
 
